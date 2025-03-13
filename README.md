@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm an **Android Developer** with expertise in **F
 ## 📧 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheen-kolimi-409a43248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shaheen_1902)
 
-### ✨ Fun Fact: I commit more than I commit in real life! 😆
+### ✨ Fun Fact: My favorite debugging tool? Print statements! 😂
