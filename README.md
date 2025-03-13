@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm an **Android Developer** with expertise in **F
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ## GitHub Streak 🔥
 
@@ -32,5 +34,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** with expertise in **F
 ###
 ## 📧 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheen-kolimi-409a43248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shaheen_1902)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shshaheen&color=blue&style=flat-square)
 
 ### ✨ Fun Fact: My favorite debugging tool? Print statements! 😂
