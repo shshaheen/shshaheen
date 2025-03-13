@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm an **Android Developer** with expertise in **F
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-## Github Stats
+## GitHub Streak 🔥
+
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shshaheen&theme=radical)](https://git.io/streak-stats)
